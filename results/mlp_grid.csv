@@ -1,0 +1,13 @@
+params,std_test_score,mean_fit_time,cv_mae_inr
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (128, 64), 'regressor__model__learning_rate': 0.0003}",6574.7698105381705,10.879031658172607,76342.9765625
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (128, 64), 'regressor__model__learning_rate': 0.0003}",4420.828194201637,5.836755196253459,76524.3125
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (64, 32), 'regressor__model__learning_rate': 0.001}",6189.532932215968,7.346657355626424,76963.1328125
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (256, 128, 64), 'regressor__model__learning_rate': 0.001}",3970.158027571307,8.186577161153158,77095.44791666667
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (64, 32), 'regressor__model__learning_rate': 0.0003}",4430.105522195248,14.153865973154703,77213.9921875
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (64, 32), 'regressor__model__learning_rate': 0.0003}",3171.3157711744307,7.7178207238515215,77520.34375
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (256, 128, 64), 'regressor__model__learning_rate': 0.0003}",4014.805373308509,4.872022867202759,77547.5390625
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (256, 128, 64), 'regressor__model__learning_rate': 0.0003}",7027.992115843052,9.803863366444906,77599.54947916667
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (256, 128, 64), 'regressor__model__learning_rate': 0.001}",4661.070685780155,4.742468039194743,78175.54427083333
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (64, 32), 'regressor__model__learning_rate': 0.001}",2149.3753559557554,6.6010316212972,78205.19791666667
+"{'regressor__model__dropout': 0.2, 'regressor__model__hidden_layers': (128, 64), 'regressor__model__learning_rate': 0.001}",6975.929485449758,7.2322680950164795,78362.69791666667
+"{'regressor__model__dropout': 0.0, 'regressor__model__hidden_layers': (128, 64), 'regressor__model__learning_rate': 0.001}",4654.023519303105,4.510931968688965,78820.54947916667
